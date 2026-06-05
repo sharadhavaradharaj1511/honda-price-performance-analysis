@@ -28,4 +28,4 @@ Conducted statistical analysis to identify factors influencing Honda car pricing
 Collaborated on statistical modeling, interaction testing, model interpretation, and business insights generation.
 
 ## Project File
-View the uploaded project presentation in this repository.
+📄 [Open Project Report PDF](https://raw.githubusercontent.com/sharadhavaradharaj1511/honda-price-performance-analysis/main/Honda_Price_Performance_Analysis.pdf)
